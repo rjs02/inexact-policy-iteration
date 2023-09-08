@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+cmake-*
+build
+release
+output
+slurm-*
+data/
+out/
+output/
